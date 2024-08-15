@@ -1,4 +1,4 @@
-# Sistema de controle de curso
+# Sistema de controle de matricula e alunos
 
 
 
